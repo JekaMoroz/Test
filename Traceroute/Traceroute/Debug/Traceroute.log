@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\zheny\onedrive\desktop\traceroute\traceroute\source.cpp(194): warning C4101: CurTime: неиспользованная локальная переменная
+  Traceroute.vcxproj -> C:\Users\zheny\OneDrive\Desktop\Traceroute\Debug\Traceroute.exe
